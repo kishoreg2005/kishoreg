@@ -17,7 +17,7 @@
 ## 🧠 About Me  
 
 🚀 Building **real-world AI systems** that solve impactful problems  
-🤖 Specialized in **LLMs, NLP, and RAG architectures**  
+🤖 Specialized in **Machine Learning,Deep Learning and RAG architectures**  
 🏆 Hackathon Winner | **TN-iMPACT Top 5 Finalist**  
 ☁️ Working with **AWS & Google Cloud**  
 💡 Founder @ **Axentus Software & Services**  
